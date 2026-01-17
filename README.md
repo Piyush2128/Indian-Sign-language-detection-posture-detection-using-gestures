@@ -1,7 +1,8 @@
 # Indian-Sign-language-detection-posture-detection-using-gestures
 This project is aimed at detecting and recognizing Indian Sign Language (ISL) gestures in real-time using the Mediapipe library and Artificial Neural Network.
 This project is aimed at detecting and recognizing Indian Sign Language (ISL) gestures using the Mediapipe library. The project is implemented in Python.
-![All gestures covered by project](<img width="1162" height="852" alt="image" src="https://github.com/user-attachments/assets/51af2884-6f86-4872-a6d2-2144356b1a5c" />
+![All gestures covered by project](<img width="1162" height="852" alt="image" src="https://github.com/user-attachments/assets/68afd08b-14c2-4dfc-819f-9b027b87bc9e" />
+
 )
 
 ### Requirements
@@ -56,7 +57,8 @@ The program uses the Mediapipe library to detect landmarks on the hand and finge
 
 During execution, the program uses the webcam to capture video frames, applies the Mediapipe hand detection model to detect the hand in each frame, and extracts the hand landmarks. The extracted landmarks are then passed to the classification model, which predicts the class of the hand gesture. The predicted class is displayed on the video stream in real-time.
 
-![Process image](<img width="982" height="561" alt="image" src="https://github.com/user-attachments/assets/4dbbcd51-1477-4ff0-84ba-4fccadd5d135" />
+![Process image](<img width="982" height="561" alt="image" src="https://github.com/user-attachments/assets/7bbde3ff-6d7e-4a19-9ad7-fe99993f6350" />
+
 )
 
 ## File Descriptions
