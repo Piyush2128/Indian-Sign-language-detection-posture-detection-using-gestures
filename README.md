@@ -1,7 +1,8 @@
 # Indian-Sign-language-detection-posture-detection-using-gestures
 This project is aimed at detecting and recognizing Indian Sign Language (ISL) gestures in real-time using the Mediapipe library and Artificial Neural Network.
 This project is aimed at detecting and recognizing Indian Sign Language (ISL) gestures using the Mediapipe library. The project is implemented in Python.
-![All gestures covered by project](images/allGestures.png)
+![All gestures covered by project](<img width="1162" height="852" alt="image" src="https://github.com/user-attachments/assets/51af2884-6f86-4872-a6d2-2144356b1a5c" />
+)
 
 ### Requirements
 
