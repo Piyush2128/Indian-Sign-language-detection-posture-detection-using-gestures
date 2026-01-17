@@ -57,7 +57,7 @@ The program uses the Mediapipe library to detect landmarks on the hand and finge
 
 During execution, the program uses the webcam to capture video frames, applies the Mediapipe hand detection model to detect the hand in each frame, and extracts the hand landmarks. The extracted landmarks are then passed to the classification model, which predicts the class of the hand gesture. The predicted class is displayed on the video stream in real-time.
 
-(<img width="982" height="561" alt="image" src="https://github.com/user-attachments/assets/7bbde3ff-6d7e-4a19-9ad7-fe99993f6350" />
+<img width="982" height="561" alt="image" src="https://github.com/user-attachments/assets/7bbde3ff-6d7e-4a19-9ad7-fe99993f6350" />
 
 
 
